@@ -1,6 +1,5 @@
-### Hi there 👋
+### Profile
 
-#### Profile
 - Bachelor's degree in Data science (SKKU, South Korea)
 - Currently learning in 42Seoul
 
